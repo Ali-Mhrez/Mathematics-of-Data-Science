@@ -41,7 +41,7 @@ This repository contains Jupyter Notebooks exploring various mathematical concep
 #### 1. Clone the Repository:  
 ```Bash
 
-git clone https://github.com/Ali-Mhrez/mathematics.git
+git clone https://github.com/Ali-Mhrez/Mathematics-of-Data-Science.git
 ```
 
 #### 2. Run Notebooks:
