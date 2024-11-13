@@ -18,10 +18,10 @@ This repository contains Jupyter Notebooks exploring various mathematical concep
 
 ## Software/Libraries:
 
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
+- Python 3.10.12
+- NumPy 1.26.4
+- Pandas 2.2.2
+- Scikit-learn 1.5.2
 
 ## Notebooks:
 
